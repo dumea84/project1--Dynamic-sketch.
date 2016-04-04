@@ -1,3 +1,7 @@
+//// p1a
+//// Alexander Dumervil
+
+
 float xsun= 500;
 float ysun= 150;
 float speedx= 1;
